@@ -1,0 +1,16 @@
+@import 'config';
+
+.jumbotron {
+    background-color: $header-color ;
+    color: $test-color;
+}
+
+.card {
+    margin:2rem;
+    box-shadow: 2px 2px rgba(137, 135, 135, 0.748);
+}
+
+.card-header {
+    background-color: $card-header-color;
+    color: white;
+}
