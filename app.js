@@ -38,6 +38,7 @@ let questionsManager = [
     {
         type: "list",
         name: "teamMember",
+        message: "What type of employee would you like to add next?",
         choices: [
             "Engineer",
             "Intern",
@@ -70,6 +71,7 @@ let questionsEngineer = [
     {
         type: "list",
         name: "teamMember",
+        message: "What type of employee would you like to add next?",
         choices: [
             "Engineer",
             "Intern",
@@ -102,6 +104,7 @@ let questionsIntern = [
     {
         type: "list",
         name: "teamMember",
+        message: "What type of employee would you like to add next?",
         choices: [
             "Engineer",
             "Intern",
