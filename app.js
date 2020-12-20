@@ -145,6 +145,7 @@ let inquirerPrompt = (questions,employeeType) =>{
             // writes HTML file
             fs.writeFile(outputPath, render(employees), (err)=> {
                 if (err) throw err;})
+            console.log("Your Team website has been generated!")
         }
     })
     .catch(error => {
