@@ -15,7 +15,7 @@
 This application is designed to provide a user with the ability to generate a a team website in the command line.  The user will be 
 prompted to give various information about each team member.  Each team will consist of one Manager and however many Engineers and Intern's that they desire.  
 Every employee card on the Team website will have an Employee Name, ID, and Email.  Each individual employee type will consits of an additional piece of data based on 
-the role that they are given.  Manager's cards will contain and office number, Engineer's cards will contain their GitHub username, and Intern's cards will contain the school 
+the role that they are given.  Manager's cards will contain an office number, Engineer's cards will contain their GitHub username, and Intern's cards will contain the school 
 that they attend.
 
 
